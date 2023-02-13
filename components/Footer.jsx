@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="footer-container">
       <p>2022 Hassan Store All rights reserverd</p>
       <p className="icons">
-        <a href='https://twitter.com/itsHurohu' target="_blank"><AiOutlineTwitter /></a>
+        <a href='https://twitter.com/imHuwa' target="_blank"><AiOutlineTwitter /></a>
       </p>
     </div>
   )

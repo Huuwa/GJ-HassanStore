@@ -1,6 +1,6 @@
 # Hassan Store
 ## Description
-Full-Stack store webiste. The user can select and buy products
+Full-Stack store website. The user can select and buy products
 ### Developed with React, NextJS, Sanity and Stripe
 ![hassanstore1](https://user-images.githubusercontent.com/89380757/221127076-8f8e6d0a-ed79-40dc-9391-348211bbbd52.png)
 ![hassanstore2](https://user-images.githubusercontent.com/89380757/221127094-938c002a-6a42-4c99-a70a-940216c08b47.png)

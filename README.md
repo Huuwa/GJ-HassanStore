@@ -1,3 +1,4 @@
 # Hassan Store
 ## Description
-You can buy cool products on my store
+Full-Stack store webiste. The user can select and buy products
+### Developed with React, NextJS, Sanity and Stripe
